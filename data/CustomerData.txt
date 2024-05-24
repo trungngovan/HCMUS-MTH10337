@@ -1,0 +1,20 @@
+Customer Name | Phone Number | Country | Order Number | Order Quantity | Order Date
+Bob | 0123456789 | VietNam | ORD001 | 100 | 12/12/2023
+Marry | 0374850201 | Australia | ORD002 | 120 | 01/10/2023
+John | 9876543210 | USA | ORD003 | 80 | 05/02/2024
+Alice | 5551234567 | Canada | ORD004 | 150 | 20/01/2024
+David | 1234567890 | France | ORD005 | 75 | 18/11/2023
+Emily | 7890123456 | Germany | ORD006 | 110 | 22/09/2023
+Charlie | 0987654321 | UK | ORD007 | 90 | 10/08/2023
+Sarah | 2345678901 | India | ORD008 | 200 | 01/07/2023
+Michael | 3456789012 | Brazil | ORD009 | 60 | 15/06/2023
+Jessica | 4567890123 | China | ORD010 | 130 | 02/05/2024
+Daniel | 5678901234 | Japan | ORD011 | 50 | 20/04/2024
+Ashley | 6789012345 | Mexico | ORD012 | 180 | 10/03/2024
+Kevin | 7890123456 | Argentina | ORD013 | 40 | 23/02/2024
+Matthew | 8901234567 | Italy | ORD014 | 160 | 01/01/2024
+William | 9012345678 | South Korea | ORD015 | 30 | 15/12/2023
+Jennifer | 0123456789 | Indonesia | ORD016 | 125 | 05/11/2023
+Christopher | 2345678901 | Thailand | ORD017 | 85 | 22/10/2023
+Amanda | 3456789012 | Nigeria | ORD018 | 210 | 10/09/2023
+Brandon | 4567890123 | Egypt | ORD019 | 95 | 01/08/2024
