@@ -1,0 +1,37 @@
+#cover {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.customer-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.customer-table th,
+.customer-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.customer-table thead th {
+    background-color: #f2f2f2;
+}
+
+
+footer {
+    background-color: #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    padding: 5px;
+}
+
+footer strong {
+    font-weight: bold;
+}
