@@ -1,5 +1,4 @@
 # CakePHP 3
-
 /vendor/*
 /config/app.php
 
@@ -23,3 +22,4 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+*.jpeg
